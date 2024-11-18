@@ -10,7 +10,7 @@ To write a python program to perform stop and wait protocol
 6. Stop the Program
 ## Program :
 
-## Client.py :
+## Server.py :
 
 ```python
 import socket 
@@ -34,7 +34,7 @@ while True:
 
 ![image](https://github.com/user-attachments/assets/7862b3f2-bbba-4c3a-a4d0-dca03191ba4d)
 
-## Server.py 
+## Client.py 
 
 ```python
 import socket 
